@@ -22,10 +22,10 @@ I will become a diligent IT Network System Engineer!🐰
 
 <h2> 🐰 Git animal</h2>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jiwoo1222&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/jiwoo1222"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jiwoo1222&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jiwoo1222"
+  width="600"
+  height="300"
+/>
 </a>
