@@ -7,7 +7,6 @@ I will become a diligent Frontend Developer! 🐰
 
 - 💻 Frontend Developer
 - ⚛️ Learning React, Vite, HTML, CSS, and JavaScript
-- 🎨 Passionate about creating responsive and user-friendly web applications
 - 🚀 Always learning new technologies and improving my development skills
 - 💌 How to reach me:
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/i1anzu)
