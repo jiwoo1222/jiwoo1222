@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=90,lightgreen,green&height=230&section=header&text=IT%20Network%20System%20Engineer&fontSize=50&textY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=90,lightgreen,green&height=230&section=header&text=Frontend%20Developer%&fontSize=50&textY=40" />
 
 ### 👋 Hi, I'm Jiwoo Yang  
 I will become a diligent IT Network System Engineer!🐰
