@@ -23,6 +23,14 @@ I will become a diligent Frontend Developer! 🐰
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+<h2> 📌 GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jiwoo1222&theme=dracula" alt="GitHub Streak" />
+  </a>
+</p>
+
 <h2> 🐰 Git Animals</h2>
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jiwoo1222&utm_content=farm">
