@@ -25,7 +25,7 @@ I will become a diligent Frontend Developer! 🐰
 
 <h2> 📌 GitHub Stats</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jiwoo1222&theme=dracula" alt="GitHub Streak" />
   </a>
