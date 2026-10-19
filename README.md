@@ -1,3 +1,3 @@
 <p>
-  <img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript,typescript,reactjs,vite,figma&perline=7&radius=85" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,figma&amp;theme=dark&amp;perline=7" width="864" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Figma" />
 </p>
